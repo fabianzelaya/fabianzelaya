@@ -1,6 +1,6 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a href="https://fabianzelaya.myportfolio.com" rel="nofollow"><img width="80%" alt="Hello, I'm Fabian. I do open source!" src="https://ucarecdn.com/6084e462-6626-4b76-a5db-baaa85980279/Hi_mac.png" style="max-width: 100%;"></a></p>
 
-I’m a bi-lingual UX|Software Engineer Student. I'm passionate about combining my creativity with new ideas. I’m from the beautiful country of Honduras :honduras:. My first career was as a Graphic and Web Designer, however I have always loved been interested in technology. As a result I decided to increase my knowledge at [ASU](https://engineering.asu.edu/) by pursuing another area of study which my major is Software Engineering (_Which I enjoy so much!_).
+I’m a bi-lingual UX|Software Engineer Student. I'm passionate about combining my creativity with new ideas. I’m from the beautiful country of Honduras :honduras:. My first career was as a Graphic and Web Designer, however I have always loved been interested in technology. As a result I decided to increase my knowledge at [ASU](https://engineering.asu.edu/) by pursuing another area of study which my major is **Software Engineering** (_Which I enjoy so much!_).
 
 
 <table>
