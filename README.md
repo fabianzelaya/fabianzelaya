@@ -18,6 +18,9 @@ I’m a bi-lingual UX|Software Engineer Student. I'm passionate about combining 
 
 <br>
 <br>
+<a href="https://www.sololearn.com/Profile/23158644/?ref=app" rel="nofollow">
+  <img align="right" alt="Fabian Zelaya | Sololearn" width="21px" src="https://ucarecdn.com/272a1a1f-79d2-4eb2-8518-8f3efb22d85b/sololearn.png" style="max-width: 100%;">
+</a>
 <a href="https://twitter.com/fabianzelayahn" rel="nofollow">
   <img align="right" alt="Fabian Zelaya | Twitter" width="21px" src="https://ucarecdn.com/81798c30-ee03-47a8-8cdc-d4a1187a698c/twitter.svg" style="max-width: 100%;">
 </a>
