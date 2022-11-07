@@ -16,6 +16,15 @@ I’m a bi-lingual UX|Software Engineer Student. I'm passionate about combining 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&repo=HelloWorld-FZ&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/HelloWorld-FZ)
 
+<br>
+<br>
+<a href="https://twitter.com/fabianzelayahn" rel="nofollow">
+  <img align="right" alt="Fabian Zelaya | Twitter" width="21px" src="https://ucarecdn.com/81798c30-ee03-47a8-8cdc-d4a1187a698c/twitter.svg" style="max-width: 100%;">
+</a>
+<a href="https://www.codecademy.com/profiles/fabianzelayahn" rel="nofollow">
+  <img align="right" alt="Fabian Zelaya | codecademy" width="20px" src="https://ucarecdn.com/4707669f-6c50-49c8-bbee-4329eb9e69f4/Codecademy.svg" style="max-width: 100%;">
+</a>
+
 
 <!--
 **fabianzelaya/fabianzelaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
