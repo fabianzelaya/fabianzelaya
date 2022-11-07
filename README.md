@@ -1,4 +1,4 @@
-### Hi there, I'm Fabian :wave_hand:
+### Hi there, I'm Fabian :wave:
 
 ![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
