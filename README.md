@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :sparkling_heart: Support the project
+
+[![paypal.me/fabianzelaya](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/fabianzelaya) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+
+Thanks! :heart:
+
+Made with :heart:
