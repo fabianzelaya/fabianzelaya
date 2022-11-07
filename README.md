@@ -1,4 +1,4 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a href="https://fabianzelaya.myportfolio.com" rel="nofollow"><img width="80%" alt="Hello, I'm Fabian. I do open source!" src="https://ucarecdn.com/641ff702-b310-4d09-94d2-603c55199070/Hi_mac.png" style="max-width: 100%;"></a></p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a href="https://fabianzelaya.myportfolio.com" rel="nofollow"><img width="80%" alt="Hello, I'm Fabian. I do open source!" src="https://ucarecdn.com/982d9aae-ff42-425a-b1e1-ce7f7091aac5/Hi_mac.png" style="max-width: 100%;"></a></p>
 
 [![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianzelaya&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/github-readme-stats)
 
