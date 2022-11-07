@@ -1,5 +1,9 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a href="https://fabianzelaya.myportfolio.com" rel="nofollow"><img width="80%" alt="Hello, I'm Fabian. I do open source!" src="https://ucarecdn.com/6084e462-6626-4b76-a5db-baaa85980279/Hi_mac.png" style="max-width: 100%;"></a></p>
 
+<th><a href="https://github.com/fabianzelaya/github-readme-stats"><img align="center" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=fabianzelaya&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only" style="max-width: 100%;"></a></th>
+
+
+
 [![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianzelaya&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&repo=HelloWorld-FZ&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/github-readme-stats)
