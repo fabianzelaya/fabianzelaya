@@ -16,7 +16,7 @@ I’m a bi-lingual UX|Software Engineer Student. I'm passionate about combining 
 </table>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&repo=HelloWorld-FZ&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&repo=HelloWorld-FZ&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/HelloWorld-FZ)
 
 
 <!--
