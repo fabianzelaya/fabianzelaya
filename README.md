@@ -27,6 +27,10 @@ I’m a bi-lingual UX|Software Engineer Student. I'm passionate about combining 
   <img align="right" alt="Fabian Zelaya | LinkedIn" width="21px" src="https://ucarecdn.com/51dfc8c0-c586-452c-b34f-e77b1ce03007/LinkedIn_logo.png" style="max-width: 100%;">
 </a>
 
+<a href="https://www.instagram.com/fabianzelayahn/" rel="nofollow">
+  <img align="right" alt="Fabian Zelaya | Instagram" width="21px" src="https://ucarecdn.com/30cb85c5-ceca-47d0-aa88-aec030b6661e/Instagram_logo.svg" style="max-width: 100%;">
+</a>
+
 <a href="https://www.twitch.tv/fabianzelaya" rel="nofollow">
   <img align="right" alt="Fabian Zelaya | Twitch" width="21px" src="https://ucarecdn.com/6bf1612c-089c-4199-856b-2ea31b1de6a2/Twitch_Glitch_Logo_Purple.svg" style="max-width: 100%;">
 </a>
