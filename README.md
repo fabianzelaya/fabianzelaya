@@ -2,7 +2,7 @@
 
 [![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianzelaya&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&repo=fabianzelaya)](https://github.com/fabianzelaya/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&repo=HelloWorld-FZ)](https://github.com/fabianzelaya/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianzelaya)](https://github.com/fabianzelaya/github-readme-stats)
 
