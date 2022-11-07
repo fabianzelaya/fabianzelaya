@@ -1,4 +1,4 @@
-### Hi there, I'm Fabian :wave:
+### Hi, I'm Fabian :wave:
 
 [![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianzelaya&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/github-readme-stats)
 
