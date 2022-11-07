@@ -3,7 +3,7 @@
 
 <th><a href="https://github.com/fabianzelaya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianzelaya&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Fabian's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=fabianzelaya&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a></th>
 
-<th><a href="https://github.com/fabianzelaya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianzelaya&amp;layout=compact&amp;theme=dark#gh-dark-mode-only" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&amp;repo=HelloWorld-FZ&amp;theme=dark#gh-dark-mode-only" style="max-width: 100%;"></a></th>
+<th><a href="https://github.com/fabianzelaya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianzelaya&amp;layout=compact&amp;theme=dark#gh-dark-mode-only" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&amp;repo=HelloWorld-FZ&amp;theme=dark#gh-dark-mode-only&amp;hide_border=true" style="max-width: 100%;"></a></th>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&repo=HelloWorld-FZ&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/github-readme-stats)
