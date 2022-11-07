@@ -20,16 +20,20 @@ I’m a bi-lingual UX|Software Engineer Student. I'm passionate about combining 
 <br>
 <a href="https://twitter.com/fabianzelayahn" rel="nofollow">
   <img align="right" alt="Fabian Zelaya | Twitter" width="21px" src="https://ucarecdn.com/81798c30-ee03-47a8-8cdc-d4a1187a698c/twitter.svg" style="max-width: 100%;">
-  </a>
-<a href="https://www.twitch.tv/fabianzelaya" rel="nofollow">
-  <img align="right" alt="Fabian Zelaya | Twitch" width="21px" src="https://ucarecdn.com/6bf1612c-089c-4199-856b-2ea31b1de6a2/Twitch_Glitch_Logo_Purple.svg" style="max-width: 100%;">
 </a>
+
 <a href="https://www.linkedin.com/in/fabianzelaya/" rel="nofollow">
   <img align="right" alt="Fabian Zelaya | LinkedIn" width="21px" src="https://ucarecdn.com/51dfc8c0-c586-452c-b34f-e77b1ce03007/LinkedIn_logo.png" style="max-width: 100%;">
 </a>
+
+<a href="https://www.twitch.tv/fabianzelaya" rel="nofollow">
+  <img align="right" alt="Fabian Zelaya | Twitch" width="21px" src="https://ucarecdn.com/6bf1612c-089c-4199-856b-2ea31b1de6a2/Twitch_Glitch_Logo_Purple.svg" style="max-width: 100%;">
+</a>
+
 <a href="https://www.sololearn.com/Profile/23158644/?ref=app" rel="nofollow">
   <img align="right" alt="Fabian Zelaya | Sololearn" width="21px" src="https://ucarecdn.com/272a1a1f-79d2-4eb2-8518-8f3efb22d85b/sololearn.png" style="max-width: 100%;">
 </a>
+
 <a href="https://www.codecademy.com/profiles/fabianzelayahn" rel="nofollow">
   <img align="right" alt="Fabian Zelaya | codecademy" width="70x" src="https://ucarecdn.com/4707669f-6c50-49c8-bbee-4329eb9e69f4/Codecademy.svg" style="max-width: 100%;">
 </a>
