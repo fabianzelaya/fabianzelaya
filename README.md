@@ -4,14 +4,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&repo=HelloWorld-FZ)](https://github.com/fabianzelaya/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianzelaya)](https://github.com/fabianzelaya/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianzelaya&exclude_repo=HelloWorld-FZ,fabianzelaya.github.io)](https://github.com/fabianzelaya/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianzelaya&langs_count=8)](https://github.com/fabianzelaya/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianzelaya&layout=compact)](https://github.com/fabianzelaya/github-readme-stats)
 
 <!--
