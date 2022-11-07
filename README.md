@@ -28,7 +28,7 @@ I’m a bi-lingual UX|Software Engineer Student. I'm passionate about combining 
 </a>
 
 <a href="https://www.tiktok.com/@fabian.zelayahn" rel="nofollow">
-  <img align="right" alt="Fabian Zelaya | TikTok" width="21px" src="https://ucarecdn.com/7d02cc34-af3f-4bee-a763-84fed79b0356/tiktoklogo.svg" style="max-width: 100%;">
+  <img align="right" alt="Fabian Zelaya | TikTok" width="21px" src="https://ucarecdn.com/0c3afb9a-3686-455b-b751-3c19a783ea19/tiktoklogo.svg" style="max-width: 100%;">
 </a>
 
 <a href="https://www.instagram.com/fabianzelayahn/" rel="nofollow">
