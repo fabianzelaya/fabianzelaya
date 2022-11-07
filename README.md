@@ -2,7 +2,8 @@
 
 I’m a bi-lingual UX|Software Engineer Student. I'm passionate about combining my creativity with new ideas. I’m from the beautiful country of Honduras. My first career was as a Graphic and Web Designer, however I have always loved been interested in technology. As a result I decided to increase my knowledge at ASU by pursuing another area of study which my major is Software Engineering (Which I enjoy so much!).
 
-[![ASU](https://engineering.asu.edu/)]
+[ASU](https://engineering.asu.edu/)
+
 
 
 <table>
