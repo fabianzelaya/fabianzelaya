@@ -1,6 +1,4 @@
-### Hi, I'm Fabian :wave:
-
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a href="https://fabianzelaya.myportfolio.com" rel="nofollow"><img width="80%" alt="Hello, I'm Fabian. I do open source!" src="https://ucarecdn.com/4fda8ed2-44ea-4a44-bd97-204b0be75c98/Hi.png" style="max-width: 100%;"></a></p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a href="https://fabianzelaya.myportfolio.com" rel="nofollow"><img width="80%" alt="Hello, I'm Fabian. I do open source!" src="https://ucarecdn.com/88bf5057-319b-4394-ad3b-c320382e89b6/Hi.png" style="max-width: 100%;"></a></p>
 
 [![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianzelaya&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/github-readme-stats)
 
