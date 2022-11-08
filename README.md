@@ -17,6 +17,8 @@ I’m a bi-lingual UX|Software Engineer Student. I'm passionate about combining 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&repo=HelloWorld-FZ&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/HelloWorld-FZ)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&repo=webdesign-FZ&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/webdesign-FZ)
+
 <br>
 <br>
 <a href="https://twitter.com/fabianzelayahn" rel="nofollow">
