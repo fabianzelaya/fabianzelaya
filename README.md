@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 </a>
 <details>
     <summary><b>...</b></summary>
-    <p>
+<p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
