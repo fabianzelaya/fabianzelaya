@@ -20,7 +20,7 @@ I’m a bi-lingual UX|Software Engineer Student. I'm passionate about combining 
 <tr>
 <th><a href="https://github.com/fabianzelaya/HelloWorld-FZ"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&amp;repo=HelloWorld-FZ&amp;theme=dark#gh-dark-mode-only&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Fabian's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=fabianzelaya&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a></th>
 
-<th><a href="https://github.com/fabianzelaya/webdesign-FZ"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&amp;repo=HelloWorld-FZ&amp;theme=dark#gh-dark-mode-only&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Fabian's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&amp;repo=webdesign-FZ&amp;theme=dark#gh-dark-mode-only&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a></th>
+<th><a href="https://github.com/fabianzelaya/webdesign-FZ"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&amp;repo=webdesign-FZ&amp;theme=dark#gh-dark-mode-only&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Fabian's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=fabianzelaya&amp;repo=webdesign-FZ&amp;theme=dark#gh-dark-mode-only&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a></th>
 </tr>
 </thead>
 </table>
