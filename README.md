@@ -79,9 +79,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianzelaya&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/fabianzelaya/github-readme-stats)
 -->
-
-<details>
-    <summary><b>FZ</b><a href="https://fabianzelaya.myportfolio.com/" rel="nofollow">
+<a href="https://fabianzelaya.myportfolio.com/" rel="nofollow">
   <img align="left" alt="Fabian Zelaya | fabianzelaya.com" width="22px" src="https://ucarecdn.com/5861251e-a47d-4c5c-a9e0-c3c385021427/FZWEB.png" style="max-width: 100%;">
-</a></summary>
+</a>
+<details>
+    <summary><b>FZ</b></summary>
 </details>
