@@ -82,6 +82,6 @@ Here are some ideas to get you started:
 
 <details>
     <summary><a href="https://fabianzelaya.myportfolio.com/" rel="nofollow">
-  <img align="right" alt="Fabian Zelaya | fabianzelaya.com" width="21px" src="https://ucarecdn.com/5861251e-a47d-4c5c-a9e0-c3c385021427/FZWEB.png" style="max-width: 100%;">
+  <img align="left" alt="Fabian Zelaya | fabianzelaya.com" width="21px" src="https://ucarecdn.com/5861251e-a47d-4c5c-a9e0-c3c385021427/FZWEB.png" style="max-width: 100%;">
 </a></summary>
 </details>
