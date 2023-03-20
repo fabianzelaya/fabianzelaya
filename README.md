@@ -1,7 +1,12 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a href="https://fabianzelaya.myportfolio.com" rel="nofollow"><img width="80%" alt="Hello, I'm Fabian. I do open source!" src="https://ucarecdn.com/6084e462-6626-4b76-a5db-baaa85980279/Hi_mac.png" style="max-width: 100%;"></a></p>
 
-I’m a bi-lingual UX|Software Engineer Student from Honduras. I'm passionate about coming up with new creative ideas. My first career was as a Graphic and Web Designer, however I have always been interested in technology. As a result I decided to go to [ASU](https://engineering.asu.edu/) to pursue a degree in **Software Engineering** (_Which I enjoy so much!_).
+I am a bilingual student currently pursuing a degree in **Software Engineering** at [ASU](https://engineering.asu.edu/), and I am thrilled to share my experiences with you.
 
+Throughout my academic journey, I have developed a passion for creating exceptional user experiences through technology. My previous background in Graphic and Web Design has allowed me to bring a unique perspective to my software engineering work, which combines aesthetic appeal with seamless functionality.
+
+As a software engineer, I am constantly exploring new technologies and approaches to problem-solving. I am excited to be part of a field that is constantly evolving and pushing the boundaries of what is possible.
+
+Thank you for taking the time to visit my online portfolio. Please feel free to reach out if you have any questions or if you would like to discuss potential opportunities.
 
 <table>
 <thead>
