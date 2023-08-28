@@ -1,4 +1,4 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a href="https://fabianzelaya.myportfolio.com" rel="nofollow"><img width="80%" alt="Hello, I'm Fabian. I do open source!" src="https://ucarecdn.com/88ea1a29-0ad7-4f72-af10-1919c159fa24/1544377177568.jpg" style="max-width: 800%;"></a></p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a href="https://fabianzelaya.myportfolio.com" rel="nofollow"><img width="100%" alt="Hello, I'm Fabian. I do open source!" src="https://ucarecdn.com/d2336936-c517-4776-a46f-849ee737dad9/MyDeskBackground_linkedin.png" style="max-width: 800%;"></a></p>
 
 I am a bilingual student currently pursuing a degree in **Software Engineering** at [ASU](https://engineering.asu.edu/), and I am thrilled to share my experiences with you.
 
